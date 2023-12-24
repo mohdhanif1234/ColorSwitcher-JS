@@ -1,1 +1,1 @@
-# ColorSwitcher-JS
+# ColorSwitcher is a pure JS application which uses DOM manipulation techniques to change the background color of the page when clicked on any one of the boxes available on the screen.
